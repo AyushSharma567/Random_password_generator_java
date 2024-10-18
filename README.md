@@ -2,6 +2,10 @@
 
 A simple Java application that generates random passwords based on user-defined criteria, including password length and the inclusion of special characters. This tool can be useful for creating strong passwords that enhance security.
 
+![before](https://i.ibb.co/MPxsk9N/image.png)
+
+![after](https://i.ibb.co/cbVyRjg/image.png)
+
 ## Features
 
 - Generate passwords of varying lengths.
